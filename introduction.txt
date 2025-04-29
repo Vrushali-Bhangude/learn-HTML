@@ -1,0 +1,28 @@
+*** Introduction to HTML
+
+1. What is Web ?
+   -- world wide web (www) that also called as Web .
+   -- use http protocol for send request and received response.
+   -- It is a system of interlinked hypertext documents accessed via the Internet.
+
+HTTP : Hyper Text Transfer protocol 
+
+2. What is Browser ?
+   -- it is a softwere when we use to show the web pages.
+   -- that use to run the markup pages that  form as text, images, vedio etc.
+   Ex : chorome,edge
+
+3. What is Web page ?
+   -- it is a page that we see on our browser in the form of some desgin like forms, any website.
+
+
+*** HTML (Hyper text markup language)
+
+   -- easily understand
+   -- like as English
+   -- markup language
+   -- provide the structure of web pages
+   -- use .html extention for creating html file
+   
+
+
