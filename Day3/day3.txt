@@ -1,0 +1,32 @@
+BASIC TAG:
+
+1. big : it is used to text in big lik a h1 tag
+2.small : it is used to text in small format like h6
+
+3. subscript : jr aaplyla ekhad content base la show kraych asn te aapn subscript use 
+4. superscript : jr aaplyla ekhd content power la show karaych asn tr aapn sup use 
+
+5. pre : js aapn content write kel ts as it is display hot
+
+6. <header> – Used for the top section of the page, such as logo, site name, or    navigation menu.
+
+7. <main> – Contains the main content of the webpage.
+
+8. <section> – Divides the page into meaningful sections or blocks of content.
+
+9 .<article> – Represents a self-contained piece of content like a blog post or news article.
+
+10. <aside> – Contains side content related to the main content, such as ads, maps, or related links.
+
+11. <footer> – Used for the bottom part of the page, often containing contact details, copyright, or links.
+
+12. <br> – Inserts a single line break.
+
+13 .<hr> – Creates a horizontal line to separate content.
+
+14. <a href="..."> – Used to create a hyperlink. The target="_blank" attribute opens the link in a new tab.
+
+15 .<img src="..."> – Used to display an image. src specifies the path, alt provides alternate text, and height/width set the image size.
+
+
+
