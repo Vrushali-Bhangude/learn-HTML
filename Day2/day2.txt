@@ -1,0 +1,49 @@
+**** Basic Html Tag 
+
+Heading tags:
+
+Use :
+
+   -- defined any Heading
+  
+    h1 : <h1>EPL</h1>
+    h2 : <h2>EPL</h2>
+    h3 : <h3>EPL Institude</h3>
+    h4 : <h4>EPL Institude</h4>
+    h5 : <h5>EPL Institude</h5>
+    h6 : <h6>EPL Institude</h6>
+
+Paragraph tag :
+
+   <p></p>
+    Ex :  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Neque      cupiditate nisi non. Praesentium suscipit repellendus libero nesciunt voluptatibus quae saepe obcaecati odit voluptas, ex quibusdam reiciendis illum placeat. A, dicta!</p>
+
+Bold,Italic,underline :
+
+  <b></b> :   <b>bold</b>
+   
+  <i></i> :  <i>italic</i>
+    
+  <u></u>  : <u>underline</u>
+
+self closing tag 
+
+  1. br -> goes to next line
+  2. hr -> add to bottom border
+
+anchor tag :
+  
+  <a></a> :
+
+      --- redirect to another pages
+      --- it has a href attribute which take the path of file or particuler location address where we want to go.
+
+  Example : <a href="https://github.com/Vrushali-Bhangude">open github acc</a>
+
+image tag :
+ 
+   <img src="" alt= " ">
+
+       -- show the images
+
+    Example : <img src="./image.png" alt="google logo"> 
