@@ -1,0 +1,13 @@
+Hosting :  aapla loptop madhla project jr bakichya chyana share karaycha asn tr aaplyla to host/deploy karav lagto thyla aapn hosting.deployed.
+
+
+domain : .com , .edu, .org
+
+
+EX: epl.com
+    https://app.samanyastra.com/
+
+
+hosting platform : 1. netlify
+                   2. vercel
+                   3. render
