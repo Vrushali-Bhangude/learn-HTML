@@ -11,3 +11,5 @@ EX: epl.com
 hosting platform : 1. netlify
                    2. vercel
                    3. render
+
+render : for deploy backend code also
