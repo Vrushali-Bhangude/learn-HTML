@@ -1,0 +1,30 @@
+Note:
+- <div> is a block-level element. It starts on a new line and takes up the full width available.
+- <span> is an inline element. It does not start on a new line and only takes up as much width as necessary.
+
+Example:
+<div>this is div</div>
+<span>this is span</span>
+
+Difference between <div> and <span>:
+
+1. <div>
+   - Block-level element.
+   - Starts on a new line and stretches out to the full width available.
+   - Used to group larger sections of content or elements.
+   - Example:
+     <div style="background-color: lightblue;">This is a div block</div>
+
+2. <span>
+   - Inline element.
+   - Does not start on a new line; only takes up as much width as its content.
+   - Used to style or group small portions of text or inline elements.
+   - Example:
+     <span style="color: red;">This is a span inline</span>
+
+Summary Table:
+
+| Element | Type        | Starts New Line | Width         | Typical Use                |
+|---------|-------------|-----------------|---------------|----------------------------|
+| div     | Block-level | Yes             | Full width    | Layout, grouping sections  |
+| span    | Inline      | No              | Content width | Styling inline text        |
